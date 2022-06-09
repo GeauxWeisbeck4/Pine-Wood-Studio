@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5702ba89-7242-490e-b04d-e4a691faced5/deploy-status)](https://app.netlify.com/sites/fernfolio/deploys)
 
-# Fernfolio
-The super simple portfolio template built with [Eleventy](https://www.11ty.io/) and [Netlify CMS](https://www.netlifycms.org/)
+# Pine Wood Studio
+The Pine Wood Studio website was built with love by [Eleventy](https://www.11ty.io/) and [Netlify CMS](https://www.netlifycms.org/). I structured it off of the Fernfolio Starter Portfolio Template which is quite awesome I must say. Keep on reading to learn more about the build!
 
 <img width="1280" alt="fernfolio screenshot" src="https://raw.githubusercontent.com/TylerMRoderick/fernfolio-11ty-template/master/fernfolio-preview.png">
 

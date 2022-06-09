@@ -1,7 +1,7 @@
 {
-  "name": "fernfolio-11ty-template",
+  "name": "Pine Wood Studio",
   "version": "1.0.0",
-  "description": "The super simple portfolio template built with Eleventy and Netlify CMS",
+  "description": "Pine Wood Studio is a full stack developer with a focus on the 11ty static site generator. Made from an 11ty starter called Fernfolio, but utilizes many different frameworks.",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy"

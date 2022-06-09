@@ -1,10 +1,10 @@
 ---
 layout: layouts/blog.njk
 title: Articles
-date: 2017-01-01
+date: 2022-05-29
 permalink: /blog/index.html
-metaDescription: A sample Blog page listing various posts and authors.
-subtitle: A collection of technical blog posts and random thoughts
+metaDescription: Our blog is here to inform you on web development, creativity, and entrepreneurship. Oh, and of course 11ty!
+subtitle: Pine Wood Studio creates high quality SEO content that helps customers discover your website quickly
 eleventyNavigation:
   key: Blog
   order: 2

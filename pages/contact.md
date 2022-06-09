@@ -4,16 +4,11 @@ layout: layouts/contact.njk
 title: Get in touch
 date: 2018-01-01
 permalink: /contact/index.html
-metaDescription: This is a sample meta description. If one is not present in
-  your page/post's front matter, the default metadata.desciption will be used
-  instead.
-subtitle: Contact Subtitle
+metaDescription: Reach out to us if you want Pine Wood Studio to build your next 11ty project or if you would like to learn how to use 11ty!
+subtitle: Contact Pine Wood Studio
 eleventyNavigation:
   key: Contact
   order: 5
 ---
 
-The contact form on this page uses [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process submissions,
-and saves them in the connected Netlify account where notifications can
-optionally be configured. Each submission is passed through a spam filter and
-if flagged, will display a CAPTCHA challenge to the user.
+Contact us with any questions, requests, or just to say hi! If you have any questions about pricing, be sure to check our
