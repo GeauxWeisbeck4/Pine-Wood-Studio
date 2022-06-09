@@ -28,7 +28,7 @@
     max-width: 35%;
     min-width: 300px;
     border-radius: var(--border-radius);
-    background-color: var(--color-bg-accent);
+    background-image: url(static/img/pineydevdude.png);
     z-index: -1;
   }
 }

@@ -16,6 +16,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  background-color: var(--color-card);
   padding: 15px 30px;
   border: 2px solid var(--color-border);
 }
@@ -25,12 +26,12 @@
 }
 
 .project-card__tag {
-  background-color: var(--color-secondary);
-  color: var(--color-text-alt);
+  background-color: var(--color-product);
+  color: var(--color-text-product);
 }
 
 .project-card__tag:hover {
-  color: var(--color-text-alt);
+  color: var(--color-text-hover);
   filter: brightness(90%);
 }
 

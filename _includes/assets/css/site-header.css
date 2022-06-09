@@ -3,6 +3,7 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+  background-color: rgb(5, 167, 140);
   padding: 15px;
   border-top: 3px solid var(--color-secondary);
 }
@@ -43,7 +44,7 @@
 }
 
 .site-header__items {
-	display: flex;
+  display: flex;
   align-items: center;
   flex-wrap: wrap;
   justify-content: center;
@@ -53,7 +54,7 @@
 }
 
 .site-header__item {
-	margin: 0 6px;
+  margin: 0 6px;
   font-weight: 500;
   font-size: 14px;
 }
@@ -68,10 +69,10 @@
 .site-header__link {
   display: flex;
   align-items: center;
-  color: var(--color-text);
+  color: var(--color-text-product);
 }
 
 .site-header__link:hover {
   border-bottom: none;
+  color: var(--color-bg-accent);
 }
-

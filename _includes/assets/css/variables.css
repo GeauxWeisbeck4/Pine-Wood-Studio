@@ -1,24 +1,30 @@
 :root {
   /* Brand Colors */
-  --color-primary: #222222;
-  --color-secondary: #2f5bc2;
+  --color-primary: #06708d;
+  --color-secondary: #10916d;
 
   /* Background Colors */
   --color-bg: #ffffff;
-  --color-bg-secondary: #f7f7f7;
-  --color-bg-accent: #c79191;
+  --color-bg-secondary: #03c1a8;
+  --color-bg-accent: #ffe0cd;
+  --color-bg-pretty: #92fcee;
 
   /* Text and Border Colors */
-  --color-text: #222222;
-  --color-text-alt: #ffffff;
+  --color-text: #074535;
+  --color-text-alt: #27a73d;
   --color-border: rgba(0, 0, 0, 0.06);
+  --color-product: #1a99bc;
+  --color-text-product: #ffffff;
 
   /* Status Colors */
   --color-danger: #e03e3e;
 
+  /* Card Colors */
+  --color-card: #79efce;
+
   /* Typography */
-  --font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  --font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, 'Noto Sans', sans-serif;
   --font-family-heading: var(--font-family-base);
 
   /* Sizes */

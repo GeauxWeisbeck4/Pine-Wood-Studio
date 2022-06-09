@@ -1,6 +1,6 @@
 {
-  "title": "Hello, my name is Fernfolio",
-  "image": "/static/img/fern-in-hand.jpeg",
-  "subtitle": "The super simple portfolio template built with Eleventy and Netlify CMS",
-  "image_alt": "Fern in hand"
+  "title": "Pine Wood Studio",
+  "image": "/static/img/pinewoodinhand.png",
+  "subtitle": "Full-Stack Studio that specializes in developing apps and websites with 11ty and other Jamstack frameworks",
+  "image_alt": "Fresh Pine Wood Trees"
 }

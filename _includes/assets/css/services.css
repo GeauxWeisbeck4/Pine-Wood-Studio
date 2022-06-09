@@ -1,0 +1,10 @@
+.section--heading {
+  padding: calc(var(--s4) * 1.1) calc(var(--s4) * 0.75);
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  width: 100%;
+  height: 4rem;
+  transform: skew(-20deg);
+  background: var(--color-bg-pretty);
+}
