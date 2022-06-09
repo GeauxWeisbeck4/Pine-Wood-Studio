@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template"
+    "url": "https://github.com/GeauxWeisbeck4/Pine-Wood-Studio"
   },
   "author": {
-    "name": "Tyler M. Roderick",
-    "email": "troderick@protonmail.com",
-    "url": "https://www.tylerroderick.com/"
+    "name": "Andrew Weisbeck",
+    "email": "andrew.weisbeck@gmail.com",
+    "url": "https://GeauxWeisbeck4.dev"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template/issues"
+    "url": "https://github.com/GeauxWeisbeck4/Pine-Wood-Studio.git"
   },
-  "homepage": "https://github.com/tylerMRoderick/fernfolio-11ty-template",
+  "homepage": "https://pinewoodstudio.agency",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "luxon": "^1.25.0",
